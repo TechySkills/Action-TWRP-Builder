@@ -2,7 +2,7 @@
 
 ## Advertising
 
-1. OrangeFox is [here](https://github.com/azwhikaru/Action-OFRP-Builder)
+1. OrangeFox is [here](https://github.com/TechySkills/Custom-Recovery-Bomb/tree/ofrp)
 
 ## Notice
 
