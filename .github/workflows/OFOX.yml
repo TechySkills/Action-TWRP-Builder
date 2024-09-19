@@ -18,7 +18,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'main'
+        default: 'twrp_11.0_Q'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
